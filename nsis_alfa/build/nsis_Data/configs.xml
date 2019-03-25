@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameSettingsModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SoundsVolume>6</SoundsVolume>
+  <SoundChanged>true</SoundChanged>
+  <MusicVolume>6</MusicVolume>
+  <MusicChanged>true</MusicChanged>
+  <Resolution>R640X400</Resolution>
+  <ResolutionChanged>false</ResolutionChanged>
+</GameSettingsModel>
